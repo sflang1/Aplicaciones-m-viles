@@ -1,0 +1,65 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CheckboxyRadiobutton
+</name>
+</assembly>
+<members>
+<member name="P:Checkbox_y_Radiobutton.App.RootFrame">
+	<summary>
+ Proporcionar acceso sencillo al marco raíz de la aplicación telefónica.
+ </summary>
+	<returns>Marco raíz de la aplicación telefónica.</returns>
+</member><member name="M:Checkbox_y_Radiobutton.App.#ctor">
+	<summary>
+ Constructor para el objeto Application.
+ </summary>
+</member><member name="M:Checkbox_y_Radiobutton.App.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:Checkbox_y_Radiobutton.LocalizedStrings">
+	<summary>
+ Proporciona acceso a los recursos de cadena.
+ </summary>
+</member><member name="M:Checkbox_y_Radiobutton.MainPage.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="P:Checkbox_y_Radiobutton.AppResources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché usada por esta clase.
+</summary>
+</member><member name="P:Checkbox_y_Radiobutton.AppResources.Culture">
+	<summary>
+  Invalida la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos que usan esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="P:Checkbox_y_Radiobutton.AppResources.ResourceFlowDirection">
+	<summary>
+  Busca una cadena traducida similar a LeftToRight.
+</summary>
+</member><member name="P:Checkbox_y_Radiobutton.AppResources.ResourceLanguage">
+	<summary>
+  Busca una cadena traducida similar a us-EN.
+</summary>
+</member><member name="P:Checkbox_y_Radiobutton.AppResources.ApplicationTitle">
+	<summary>
+  Busca una cadena traducida similar a MI APLICACIÓN.
+</summary>
+</member><member name="P:Checkbox_y_Radiobutton.AppResources.AppBarButtonText">
+	<summary>
+  Busca una cadena traducida similar a botón
+</summary>
+</member><member name="P:Checkbox_y_Radiobutton.AppResources.AppBarMenuItemText">
+	<summary>
+  Busca una cadena traducida similar a Elemento de menú.
+</summary>
+</member><member name="T:Checkbox_y_Radiobutton.AppResources">
+	<summary>
+  Clase de recurso fuertemente tipado para buscar cadenas traducidas, etc.
+</summary>
+</member>
+</members>
+</doc>
