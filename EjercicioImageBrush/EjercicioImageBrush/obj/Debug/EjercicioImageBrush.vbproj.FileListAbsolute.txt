@@ -1,0 +1,21 @@
+D:\Universidad\Semestre X\Appli Móviles\EjercicioImageBrush\EjercicioImageBrush\Bin\Debug\Assets\ApplicationIcon.png
+D:\Universidad\Semestre X\Appli Móviles\EjercicioImageBrush\EjercicioImageBrush\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\Universidad\Semestre X\Appli Móviles\EjercicioImageBrush\EjercicioImageBrush\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\Universidad\Semestre X\Appli Móviles\EjercicioImageBrush\EjercicioImageBrush\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\Universidad\Semestre X\Appli Móviles\EjercicioImageBrush\EjercicioImageBrush\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\Universidad\Semestre X\Appli Móviles\EjercicioImageBrush\EjercicioImageBrush\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\Universidad\Semestre X\Appli Móviles\EjercicioImageBrush\EjercicioImageBrush\Bin\Debug\EjercicioImageBrush.dll
+D:\Universidad\Semestre X\Appli Móviles\EjercicioImageBrush\EjercicioImageBrush\Bin\Debug\EjercicioImageBrush.pdb
+D:\Universidad\Semestre X\Appli Móviles\EjercicioImageBrush\EjercicioImageBrush\Bin\Debug\EjercicioImageBrush.xml
+D:\Universidad\Semestre X\Appli Móviles\EjercicioImageBrush\EjercicioImageBrush\Bin\Debug\AppManifest.xaml
+D:\Universidad\Semestre X\Appli Móviles\EjercicioImageBrush\EjercicioImageBrush\Bin\Debug\My Project\WMAppManifest.xml
+D:\Universidad\Semestre X\Appli Móviles\EjercicioImageBrush\EjercicioImageBrush\Bin\Debug\EjercicioImageBrush_Debug_AnyCPU.xap
+D:\Universidad\Semestre X\Appli Móviles\EjercicioImageBrush\EjercicioImageBrush\obj\Debug\App.g.i.vb
+D:\Universidad\Semestre X\Appli Móviles\EjercicioImageBrush\EjercicioImageBrush\obj\Debug\MainPage.g.i.vb
+D:\Universidad\Semestre X\Appli Móviles\EjercicioImageBrush\EjercicioImageBrush\obj\Debug\EjercicioImageBrush.g.resources
+D:\Universidad\Semestre X\Appli Móviles\EjercicioImageBrush\EjercicioImageBrush\obj\Debug\EjercicioImageBrush.AppResources.resources
+D:\Universidad\Semestre X\Appli Móviles\EjercicioImageBrush\EjercicioImageBrush\obj\Debug\EjercicioImageBrush.vbproj.GenerateResource.Cache
+D:\Universidad\Semestre X\Appli Móviles\EjercicioImageBrush\EjercicioImageBrush\obj\Debug\EjercicioImageBrush.dll
+D:\Universidad\Semestre X\Appli Móviles\EjercicioImageBrush\EjercicioImageBrush\obj\Debug\EjercicioImageBrush.xml
+D:\Universidad\Semestre X\Appli Móviles\EjercicioImageBrush\EjercicioImageBrush\obj\Debug\EjercicioImageBrush.pdb
+D:\Universidad\Semestre X\Appli Móviles\EjercicioImageBrush\EjercicioImageBrush\obj\Debug\XapCacheFile.xml
