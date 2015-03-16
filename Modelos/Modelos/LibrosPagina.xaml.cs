@@ -7,6 +7,7 @@ using System.Windows.Controls;
 using System.Windows.Navigation;
 using Microsoft.Phone.Controls;
 using Microsoft.Phone.Shell;
+using Modelos.Models;
 
 namespace Modelos
 {
@@ -15,6 +16,13 @@ namespace Modelos
         public LibrosPagina()
         {
             InitializeComponent();
+        }
+
+        private void EnviarInfo(object sender, RoutedEventArgs e)
+        {
+            var a=Lista.SelectedItems;
+            Libro libro = Lista.SelectedItem as Libro;
+            NavigationService.Navigate(new Uri("/Detalle.xaml?parametro="+libro.Codigo, UriKind.Relative));
         }
     }
 }

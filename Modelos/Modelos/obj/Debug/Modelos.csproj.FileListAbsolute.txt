@@ -18,3 +18,4 @@ D:\Universidad\Semestre X\Appli Móviles\Modelos\Modelos\obj\Debug\Modelos.dll
 D:\Universidad\Semestre X\Appli Móviles\Modelos\Modelos\obj\Debug\Modelos.pdb
 D:\Universidad\Semestre X\Appli Móviles\Modelos\Modelos\obj\Debug\XapCacheFile.xml
 D:\Universidad\Semestre X\Appli Móviles\Modelos\Modelos\obj\Debug\LibrosPagina.g.cs
+D:\Universidad\Semestre X\Appli Móviles\Modelos\Modelos\obj\Debug\Detalle.g.cs

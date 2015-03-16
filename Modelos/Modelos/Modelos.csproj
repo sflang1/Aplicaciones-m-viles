@@ -93,6 +93,9 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Detalle.xaml.cs">
+      <DependentUpon>Detalle.xaml</DependentUpon>
+    </Compile>
     <Compile Include="LibrosPagina.xaml.cs">
       <DependentUpon>LibrosPagina.xaml</DependentUpon>
     </Compile>
@@ -114,6 +117,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </ApplicationDefinition>
+    <Page Include="Detalle.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="LibrosPagina.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>

@@ -1,0 +1,20 @@
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\Bin\Debug\Assets\ApplicationIcon.png
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\Bin\Debug\Persistencia_con.Net.dll
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\Bin\Debug\Persistencia_con.Net.pdb
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\Bin\Debug\AppManifest.xaml
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\Bin\Debug\Properties\WMAppManifest.xml
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\Bin\Debug\Persistencia_con.Net_Debug_AnyCPU.xap
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\obj\Debug\App.g.cs
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\obj\Debug\MainPage.g.cs
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\obj\Debug\Persistencia_con.Net.g.resources
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\obj\Debug\Persistencia_con.Net.Resources.AppResources.resources
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\obj\Debug\Persistencia con .Net.csproj.GenerateResource.Cache
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\obj\Debug\Persistencia_con.Net.dll
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\obj\Debug\Persistencia_con.Net.pdb
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\obj\Debug\XapCacheFile.xml
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\obj\Debug\IsolatedSettings.g.cs

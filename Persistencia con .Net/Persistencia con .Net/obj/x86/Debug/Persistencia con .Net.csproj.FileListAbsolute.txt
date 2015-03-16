@@ -1,0 +1,23 @@
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\obj\x86\Debug\App.g.cs
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\obj\x86\Debug\IsolatedSettings.g.cs
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\obj\x86\Debug\MainPage.g.cs
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\obj\x86\Debug\PizzaPage.g.cs
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\obj\x86\Debug\Persistencia_con.Net.g.resources
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\obj\x86\Debug\Persistencia_con.Net.Resources.AppResources.resources
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\obj\x86\Debug\Persistencia con .Net.csproj.GenerateResource.Cache
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\Bin\x86\Debug\Assets\ApplicationIcon.png
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\Bin\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\Bin\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\Bin\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\Bin\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\Bin\x86\Debug\Assets\Tiles\IconicTileSmall.png
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\Bin\x86\Debug\Persistencia_con.Net.dll
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\Bin\x86\Debug\Persistencia_con.Net.pdb
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\Bin\x86\Debug\AppManifest.xaml
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\Bin\x86\Debug\Properties\WMAppManifest.xml
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\Bin\x86\Debug\Persistencia_con.Net_Debug_x86.xap
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\Bin\x86\Debug\Sqlite.winmd
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\Bin\x86\Debug\Sqlite.dll
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\obj\x86\Debug\Persistencia_con.Net.dll
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\obj\x86\Debug\Persistencia_con.Net.pdb
+D:\Universidad\Semestre X\Appli Móviles\Persistencia con .Net\Persistencia con .Net\obj\x86\Debug\XapCacheFile.xml

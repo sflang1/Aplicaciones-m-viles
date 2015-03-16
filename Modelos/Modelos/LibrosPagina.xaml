@@ -6,6 +6,7 @@
     xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:models="clr-namespace:Modelos.Models"
     FontFamily="{StaticResource PhoneFontFamilyNormal}"
     FontSize="{StaticResource PhoneFontSizeNormal}"
     Foreground="{StaticResource PhoneForegroundBrush}"
@@ -15,6 +16,9 @@
 
     <!--LayoutRoot es la cuadrícula raíz donde se coloca todo el contenido de la página-->
     <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.Resources>
+            
+        </Grid.Resources>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
@@ -28,16 +32,23 @@
 
         <!--ContentPanel. Colocar aquí el contenido adicional-->
         <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
-            <ListBox ItemsSource="{Binding Source={StaticResource Libros},Path=Data}">
-                <ListBox.ItemTemplate>
-                    <DataTemplate>
-                        <StackPanel Margin="10,8,0,0">
-                            <TextBlock Text="{Binding Nombre}" FontSize="30" TextWrapping="Wrap"/>
-                            <TextBlock Text="{Binding Autor}" FontSize="20"/>
-                        </StackPanel>
-                    </DataTemplate>
-                </ListBox.ItemTemplate>
-            </ListBox>
+            <StackPanel>
+                <ListBox x:Name="Lista" ItemsSource="{Binding Source={StaticResource Libros},Path=Data}">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Margin="10,8,0,0">
+                                <TextBlock Text="{Binding Nombre}" FontSize="30" TextWrapping="Wrap"/>
+                                <TextBlock Text="{Binding Autor}" FontSize="20"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+                <Button Margin="0,15,0,0" HorizontalAlignment="Center" Width="Auto" Click="EnviarInfo">
+                    <TextBlock>
+                        Aceptar
+                    </TextBlock>
+                </Button>
+            </StackPanel>
         </Grid>
     </Grid>
 </phone:PhoneApplicationPage>
