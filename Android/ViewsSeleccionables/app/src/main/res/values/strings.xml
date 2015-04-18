@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SelectableViews</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="msg">You picked the color: </string>
+    <string name="action_settings">Settings</string>
+    <string-array name="colores">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Purple</item>
+    </string-array>
+</resources>

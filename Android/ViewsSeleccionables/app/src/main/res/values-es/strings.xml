@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Views Seleccionables</string>
+    <string name="hello_world">¡Hola mundo!</string>
+    <string name="msg">Escogiste el color: </string>
+    <string name="action_settings">Settings</string>
+    <string-array name="colores">
+        <item>Rojo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Violeta</item>
+    </string-array>
+</resources>
