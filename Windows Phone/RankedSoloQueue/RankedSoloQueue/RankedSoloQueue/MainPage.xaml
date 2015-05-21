@@ -1,0 +1,113 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="RankedSoloQueue.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    xmlns:models="clr-namespace:RankedSoloQueue.Models"
+    mc:Ignorable="d"
+    xmlns:system="clr-namespace:System;assembly=mscorlib"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot es la cuadrícula raíz donde se coloca todo el contenido de la página-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.Resources>
+            <!--<models:Regiones x:Key="regiones"/>-->
+            <DataTemplate x:Name="ListPickerItemTemplate">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Hola mundo"></TextBlock>
+                </StackPanel>
+            </DataTemplate>
+            <models:Regiones x:Key="regs"/>
+        </Grid.Resources>
+
+        <!-- NOTA PARA LA TRADUCCIÓN:
+            Para traducir las cadenas mostradas, copia sus valores a las claves con el nombre
+            correspondiente en el archivo de recursos del idioma neutro (AppResources.resx) de la aplicación y
+            reemplaza el valor de texto codificado de forma rígida entre las comillas de los atributos
+            con la cláusula de enlace cuya ruta de acceso apunte a ese nombre de cadena.
+
+            Por ejemplo:
+
+                Text="{Binding Path=LocalizedResources.ApplicationTitle, Source={StaticResource LocalizedStrings}}"
+
+            Este enlace apunta al recurso de cadena de la plantilla denominado "ApplicationTitle".
+
+            Al agregar idiomas admitidos en la pestaña Propiedades del proyecto se creará un
+            nuevo archivo resx por idioma que puede contener los valores traducidos de las
+            cadenas de la interfaz de usuario. El enlace de estos ejemplos hará que el valor de los atributos
+            se tome del archivo .resx correspondiente al valor de
+            CurrentUICulture de la aplicación en tiempo de ejecución.
+         -->
+
+        <!--TitlePanel contiene el nombre de la aplicación y el título de la página-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+        </StackPanel>
+
+        <!--ContentPanel. Colocar aquí el contenido adicional
+        DataContext="{StaticResource regiones}"-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,4,0">
+            <StackPanel>
+                <TextBlock HorizontalAlignment="Center" FontSize="25" TextWrapping="Wrap">
+                    Aplicación para estadísticas de Ranked Solo Queue
+                </TextBlock>
+                <TextBlock HorizontalAlignment="Center">
+                    Por favor, introduce tu nombre de invocador
+                </TextBlock>
+                <toolkit:PhoneTextBox Hint="Ingresa tu nombre de Invocador" x:Name="summonerName">
+                    
+                </toolkit:PhoneTextBox>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock>
+                        Introduce la región en la que juegas
+                    </TextBlock>
+                    <toolkit:ListPicker x:Name="listaRegiones" SelectionMode="Single" ItemsSource="{Binding Source={StaticResource regs}, Path=Data}" FullModeHeader="Regiones" Width="100">
+                        <toolkit:ListPicker.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="horizontal">
+                                    <TextBlock Text="{Binding NomRegion}"></TextBlock>
+                                </StackPanel>
+                            </DataTemplate>
+                        </toolkit:ListPicker.ItemTemplate>
+                        <toolkit:ListPicker.FullModeItemTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Vertical">
+                                    <TextBlock Text="{Binding NomRegion}"></TextBlock>
+                                </StackPanel>
+                            </DataTemplate>
+                        </toolkit:ListPicker.FullModeItemTemplate>
+                    </toolkit:ListPicker>
+                </StackPanel>
+                <Button x:Name="Boton" MaxWidth="300" Click="buscarInvocador">
+                    <TextBlock>
+                        Buscar Invocador
+                    </TextBlock>
+                </Button>
+                <TextBlock x:Name="existe" HorizontalAlignment="Center" FontSize="22" TextWrapping="Wrap">
+                    
+                </TextBlock>
+            </StackPanel>
+            
+        </Grid>
+
+        <!--Quitar la marca de comentarios para ver una cuadrícula de alineación que
+            ayuda a comprobar que los controles están alineados en los límites normales.  La imagen tiene un margen superior de -32px para
+            tener en cuenta la bandeja del sistema. Establécelo en 0 (o quite el margen)
+            si la bandeja del sistema está oculta.
+
+            Antes de enviarla, quita este código XAML y la propia imagen.-->
+        <!--<Image Source="/Assets/AlignmentGrid.png" VerticalAlignment="Top" Height="800" Width="480" Margin="0,-32,0,0" Grid.Row="0" Grid.RowSpan="2" IsHitTestVisible="False" />-->
+    </Grid>
+
+</phone:PhoneApplicationPage>

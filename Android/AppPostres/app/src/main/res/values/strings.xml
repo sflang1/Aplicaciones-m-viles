@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppPostres</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="postres">
+        <item>Arroz con leche#Descripción arroz con leche#2h#2000</item>
+        <item>Fresas con crema#Descripción fresas con crema#15min#2500</item>
+        <item>Helado de paila#Descripción Helado de paila#3h#3000</item>
+    </string-array>
+</resources>

@@ -1,0 +1,35 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="*"
+    tools:context="com.example.sebastinfelipe.materialdesignapp.PaletteActivity">
+
+    <ImageView android:layout_width="match_parent"
+        android:id="@+id/foto"
+        android:layout_height="180dp"
+        android:src="@drawable/fondo"
+        android:scaleType="fitXY"/>
+    <TableRow android:layout_marginTop="20dp">
+        <ImageView
+            android:id="@+id/VibranteClaro"
+            android:layout_height="100dp"/>
+        <ImageView
+            android:id="@+id/VibranteNormal"
+            android:layout_height="100dp"/>
+        <ImageView
+            android:id="@+id/VibranteOscuro"
+            android:layout_height="100dp"/>
+    </TableRow>
+    <TableRow android:layout_marginTop="20dp">
+        <ImageView
+            android:id="@+id/OpacoClaro"
+            android:layout_height="100dp"/>
+        <ImageView
+            android:id="@+id/OpacoNormal"
+            android:layout_height="100dp"/>
+        <ImageView
+            android:id="@+id/OpacoOscuro"
+            android:layout_height="100dp"/>
+    </TableRow>
+
+</TableLayout>

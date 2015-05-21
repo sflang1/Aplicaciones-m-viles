@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">EjemploFragments</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_text">Este es el texto del fragment</string>
+    <string-array name="colorsName">
+        <item name="azul">Blue</item>
+        <item name="amarillo">Yellow</item>
+        <item name="rojo">Red</item>
+        <item name="verde">Green</item>
+        <item name="violeta">Violet</item>
+        <item name="naranja">Orange</item>
+    </string-array>
+    <string name="title_activity_pager">PagerActivity</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+    <string name="drawer_close">A lateral menu has been closed</string>
+    <string name="drawer_open">A lateral menu has been opened</string>
+</resources>

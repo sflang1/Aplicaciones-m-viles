@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/action_add" android:title="@string/menu_title_add"
+        android:icon="@android:drawable/ic_menu_add" app:showAsAction="always"
+        />
+    <item
+        android:title="@string/menu_title_others"
+        android:icon="@android:drawable/ic_menu_more"
+        android:id="@+id/action_others"
+        app:showAsAction="never">
+        <menu>
+            <item android:title="@string/menu_title_info" android:id="@+id/action_info"></item>
+            <item android:title="@string/menu_title_about" android:id="@+id/action_about"></item>
+        </menu>
+        </item>
+
+</menu>

@@ -1,0 +1,70 @@
+D:\Universidad\Semestre X\Appli Móviles\Monitor Ranked Solo Queue\LoL Skill\Bin\Debug\Assets\ApplicationIcon.png
+D:\Universidad\Semestre X\Appli Móviles\Monitor Ranked Solo Queue\LoL Skill\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\Universidad\Semestre X\Appli Móviles\Monitor Ranked Solo Queue\LoL Skill\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\Universidad\Semestre X\Appli Móviles\Monitor Ranked Solo Queue\LoL Skill\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\Universidad\Semestre X\Appli Móviles\Monitor Ranked Solo Queue\LoL Skill\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\Universidad\Semestre X\Appli Móviles\Monitor Ranked Solo Queue\LoL Skill\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\Universidad\Semestre X\Appli Móviles\Monitor Ranked Solo Queue\LoL Skill\Bin\Debug\LoL Skill.dll
+D:\Universidad\Semestre X\Appli Móviles\Monitor Ranked Solo Queue\LoL Skill\Bin\Debug\LoL Skill.pdb
+D:\Universidad\Semestre X\Appli Móviles\Monitor Ranked Solo Queue\LoL Skill\Bin\Debug\resources.pri
+D:\Universidad\Semestre X\Appli Móviles\Monitor Ranked Solo Queue\LoL Skill\Bin\Debug\AppxManifest.xml
+D:\Universidad\Semestre X\Appli Móviles\Monitor Ranked Solo Queue\LoL Skill\Bin\Debug\LoL Skill.build.appxrecipe
+D:\Universidad\Semestre X\Appli Móviles\Monitor Ranked Solo Queue\LoL Skill\Bin\Debug\Properties\WMAppManifest.xml
+D:\Universidad\Semestre X\Appli Móviles\Monitor Ranked Solo Queue\LoL Skill\Bin\Debug\AppManifest.xaml
+D:\Universidad\Semestre X\Appli Móviles\Monitor Ranked Solo Queue\LoL Skill\Bin\Debug\LoL_Skill_Debug_AnyCPU.xap
+D:\Universidad\Semestre X\Appli Móviles\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\App.g.cs
+D:\Universidad\Semestre X\Appli Móviles\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\MainPage.g.cs
+D:\Universidad\Semestre X\Appli Móviles\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\LoL Skill.g.resources
+D:\Universidad\Semestre X\Appli Móviles\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\LoL_Skill.Resources.AppResources.resources
+D:\Universidad\Semestre X\Appli Móviles\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\LoL Skill.csproj.GenerateResource.Cache
+D:\Universidad\Semestre X\Appli Móviles\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\LoL Skill.dll
+D:\Universidad\Semestre X\Appli Móviles\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\LoL Skill.pdb
+D:\Universidad\Semestre X\Appli Móviles\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\priconfig.xml
+D:\Universidad\Semestre X\Appli Móviles\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\priconfig.xml.intermediate
+D:\Universidad\Semestre X\Appli Móviles\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\layout.resfiles
+D:\Universidad\Semestre X\Appli Móviles\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\layout.resfiles.intermediate
+D:\Universidad\Semestre X\Appli Móviles\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\resources.resfiles
+D:\Universidad\Semestre X\Appli Móviles\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\resources.resfiles.intermediate
+D:\Universidad\Semestre X\Appli Móviles\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\pri.resfiles
+D:\Universidad\Semestre X\Appli Móviles\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\pri.resfiles.intermediate
+D:\Universidad\Semestre X\Appli Móviles\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\qualifiers.txt
+D:\Universidad\Semestre X\Appli Móviles\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\qualifiers.txt.intermediate
+D:\Universidad\Semestre X\Appli Móviles\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Universidad\Semestre X\Appli Móviles\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\ProjectArchitectures.txt
+D:\Universidad\Semestre X\Appli Móviles\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\MDILProjectFiles.xml
+D:\Universidad\Semestre X\Appli Móviles\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\XapCacheFile.xml
+D:\Universidad\Semestre X\Appli Móviles\Windows Phone\Monitor Ranked Solo Queue\LoL Skill\Bin\Debug\Assets\ApplicationIcon.png
+D:\Universidad\Semestre X\Appli Móviles\Windows Phone\Monitor Ranked Solo Queue\LoL Skill\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\Universidad\Semestre X\Appli Móviles\Windows Phone\Monitor Ranked Solo Queue\LoL Skill\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\Universidad\Semestre X\Appli Móviles\Windows Phone\Monitor Ranked Solo Queue\LoL Skill\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\Universidad\Semestre X\Appli Móviles\Windows Phone\Monitor Ranked Solo Queue\LoL Skill\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\Universidad\Semestre X\Appli Móviles\Windows Phone\Monitor Ranked Solo Queue\LoL Skill\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\Universidad\Semestre X\Appli Móviles\Windows Phone\Monitor Ranked Solo Queue\LoL Skill\Bin\Debug\LoL Skill.dll
+D:\Universidad\Semestre X\Appli Móviles\Windows Phone\Monitor Ranked Solo Queue\LoL Skill\Bin\Debug\LoL Skill.pdb
+D:\Universidad\Semestre X\Appli Móviles\Windows Phone\Monitor Ranked Solo Queue\LoL Skill\Bin\Debug\resources.pri
+D:\Universidad\Semestre X\Appli Móviles\Windows Phone\Monitor Ranked Solo Queue\LoL Skill\Bin\Debug\AppxManifest.xml
+D:\Universidad\Semestre X\Appli Móviles\Windows Phone\Monitor Ranked Solo Queue\LoL Skill\Bin\Debug\LoL Skill.build.appxrecipe
+D:\Universidad\Semestre X\Appli Móviles\Windows Phone\Monitor Ranked Solo Queue\LoL Skill\Bin\Debug\Properties\WMAppManifest.xml
+D:\Universidad\Semestre X\Appli Móviles\Windows Phone\Monitor Ranked Solo Queue\LoL Skill\Bin\Debug\AppManifest.xaml
+D:\Universidad\Semestre X\Appli Móviles\Windows Phone\Monitor Ranked Solo Queue\LoL Skill\Bin\Debug\LoL_Skill_Debug_AnyCPU.xap
+D:\Universidad\Semestre X\Appli Móviles\Windows Phone\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\App.g.cs
+D:\Universidad\Semestre X\Appli Móviles\Windows Phone\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\MainPage.g.cs
+D:\Universidad\Semestre X\Appli Móviles\Windows Phone\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\LoL Skill.g.resources
+D:\Universidad\Semestre X\Appli Móviles\Windows Phone\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\LoL_Skill.Resources.AppResources.resources
+D:\Universidad\Semestre X\Appli Móviles\Windows Phone\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\LoL Skill.csproj.GenerateResource.Cache
+D:\Universidad\Semestre X\Appli Móviles\Windows Phone\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\LoL Skill.dll
+D:\Universidad\Semestre X\Appli Móviles\Windows Phone\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\LoL Skill.pdb
+D:\Universidad\Semestre X\Appli Móviles\Windows Phone\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\priconfig.xml
+D:\Universidad\Semestre X\Appli Móviles\Windows Phone\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\priconfig.xml.intermediate
+D:\Universidad\Semestre X\Appli Móviles\Windows Phone\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\layout.resfiles
+D:\Universidad\Semestre X\Appli Móviles\Windows Phone\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\layout.resfiles.intermediate
+D:\Universidad\Semestre X\Appli Móviles\Windows Phone\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\resources.resfiles
+D:\Universidad\Semestre X\Appli Móviles\Windows Phone\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\resources.resfiles.intermediate
+D:\Universidad\Semestre X\Appli Móviles\Windows Phone\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\pri.resfiles
+D:\Universidad\Semestre X\Appli Móviles\Windows Phone\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\pri.resfiles.intermediate
+D:\Universidad\Semestre X\Appli Móviles\Windows Phone\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\qualifiers.txt
+D:\Universidad\Semestre X\Appli Móviles\Windows Phone\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\qualifiers.txt.intermediate
+D:\Universidad\Semestre X\Appli Móviles\Windows Phone\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Universidad\Semestre X\Appli Móviles\Windows Phone\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\ProjectArchitectures.txt
+D:\Universidad\Semestre X\Appli Móviles\Windows Phone\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\MDILProjectFiles.xml
+D:\Universidad\Semestre X\Appli Móviles\Windows Phone\Monitor Ranked Solo Queue\LoL Skill\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,31 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sebastinfelipe.multiplespantallas.Fragments.FragmentMaster"
+    android:stretchColumns="*">
+
+    <ListView
+        android:layout_height="0dp"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:id="@+id/lista">
+
+    </ListView>
+    <TableRow>
+        <Button
+            android:layout_height="wrap_content"
+            android:text="Agregar"
+            android:id="@+id/Agregar"
+            />
+        <Button
+            android:layout_height="wrap_content"
+            android:text="Editar"
+            android:id="@+id/Editar"
+            />
+        <Button
+            android:layout_height="wrap_content"
+            android:text="Eliminar"
+            android:id="@+id/Eliminar"
+            />
+    </TableRow>
+</TableLayout>

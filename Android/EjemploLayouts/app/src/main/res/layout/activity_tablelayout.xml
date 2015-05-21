@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:stretchColumns="@string/table_stretch"
+    android:collapseColumns="@string/table_collapse">
+    <TableRow android:layout_width="0dp" android:layout_weight="1">
+        <ImageView android:src="@color/rojo" android:layout_width="@dimen/anchoimg"
+            android:layout_height="match_parent"/>
+        <ImageView android:src="@color/amarillo" android:layout_width="@dimen/anchoimg"
+            android:layout_height="match_parent"/>
+        <ImageView android:src="@color/azul" android:layout_width="@dimen/anchoimg"
+            android:layout_height="match_parent"/>
+        <ImageView android:src="@color/rojo" android:layout_width="@dimen/anchoimg"
+            android:layout_height="match_parent"/>
+    </TableRow>
+    <TableRow android:layout_width="0dp" android:layout_weight="1">
+        <ImageView android:src="@color/azul" android:layout_width="@dimen/anchoimg"
+            android:layout_height="match_parent"/>
+        <ImageView android:src="@color/rojo" android:layout_width="@dimen/anchoimg"
+            android:layout_height="match_parent"/>
+
+        <ImageView android:src="@color/amarillo" android:layout_width="@dimen/anchoimg"
+        android:layout_height="match_parent"/>
+        <ImageView android:src="@color/azul" android:layout_width="@dimen/anchoimg"
+            android:layout_height="match_parent"/>
+    </TableRow>
+    <TableRow android:layout_width="0dp" android:layout_weight="1">
+        <ImageView android:src="@color/amarillo" android:layout_width="@dimen/anchoimg"
+            android:layout_height="match_parent"/>
+        <ImageView android:src="@color/azul" android:layout_width="@dimen/anchoimg"
+            android:layout_height="match_parent"/>
+        <ImageView android:src="@color/rojo" android:layout_width="@dimen/anchoimg"
+            android:layout_height="match_parent"/>
+        <ImageView android:src="@color/amarillo" android:layout_width="@dimen/anchoimg"
+            android:layout_height="match_parent"/>
+    </TableRow>
+</TableLayout>

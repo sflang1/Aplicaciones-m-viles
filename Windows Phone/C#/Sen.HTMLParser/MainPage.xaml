@@ -1,0 +1,69 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Sen.HTMLParser.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Text="HTML" Style="{StaticResource PhoneTextNormalStyle}" Margin="12,0"/>
+            <TextBlock Text="Code MSDN" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <phone:LongListSelector Name="CodeSamples" Margin="0,-20,0,0" ItemsSource="{Binding codes}">
+                <phone:LongListSelector.ItemTemplate>
+                    <DataTemplate>
+                        <Border Margin="1,0,1,15">
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition></RowDefinition>
+                                    <RowDefinition></RowDefinition>
+                                    <RowDefinition></RowDefinition>
+                                    <RowDefinition></RowDefinition>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+
+                                <TextBlock Grid.Row="0" Grid.Column="0"  Text="{Binding Title}" FontFamily="Segoe UI Semilight" TextWrapping="Wrap" FontSize="24" Foreground="Red"/>
+                                <StackPanel Margin="2,1,2,1" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" Orientation="Horizontal">
+                                    <Image Width="35" Source="{Binding ImageUrl}" Stretch="Uniform" />
+                                    <TextBlock Margin="5,2,4,2" Text="{Binding Summary}" FontFamily="Segoe UI Semilight" FontSize="20" 
+                                                   TextWrapping="Wrap" Width="390" />
+                                </StackPanel>
+                                <TextBlock Margin="2,1,2,1" Grid.Row="2" Grid.Column="0" HorizontalAlignment="Left" FontFamily="Segoe UI Semilight" Text="{Binding Description}" FontSize="18" TextWrapping="Wrap" Foreground="YellowGreen" />
+                                <Grid Margin="2,2,2,1" Grid.Row="3" Grid.Column="0">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="*"></ColumnDefinition>
+                                        <ColumnDefinition Width="35"></ColumnDefinition>
+                                    </Grid.ColumnDefinitions>
+                                    <TextBlock FontFamily="Segoe UI Semilight" Text="{Binding Technologies}" FontSize="18" TextWrapping="NoWrap" />
+                                </Grid>
+                            </Grid>
+                        </Border>
+                    </DataTemplate>
+                </phone:LongListSelector.ItemTemplate>
+            </phone:LongListSelector>
+        </Grid>
+
+    </Grid>
+
+</phone:PhoneApplicationPage>

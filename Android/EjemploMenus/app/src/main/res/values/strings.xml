@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">EjemploMenus</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_title_add">Agregar</string>
+    <string name="menu_title_info">Información</string>
+    <string name="menu_title_about">Acerca de</string>
+    <string name="menu_title_others">Otros</string>
+    <string name="menu_title_edit">Editar</string>
+    <string name="menu_title_delete">Eliminar</string>
+    <string-array name="postres">
+        <item>Postre Tres Leches</item>
+        <item>Gelatina</item>
+        <item>Postre Eduardo Santos</item>
+        <item>Arroz con leche</item>
+        <item>Tiramisú</item>
+    </string-array>
+    <string name="title_activity_add_postre">AddPostre</string>
+    <string name="addpostre_hint">Nombre del nuevo postre</string>
+    <string name="title_activity_activity_edit_postre">activity_edit_postre</string>
+</resources>

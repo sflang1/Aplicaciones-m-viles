@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EjemploWindowsAzure</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_add_textheader">Formulario de Ingreso de Datos</string>
+    <string name="activity_add_hintname">Nombre Ciudad</string>
+    <string name="activity_add_hintcountry">País de la ciudad</string>
+    <string name="activity_add_hintpopulation">Población de la ciudad</string>
+    <string name="activity_add_buttonText">Agregar Ciudad</string>
+</resources>

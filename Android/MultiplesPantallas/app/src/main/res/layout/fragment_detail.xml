@@ -1,0 +1,12 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sebastinfelipe.multiplespantallas.Fragments.DetailFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView android:layout_width="match_parent" android:layout_height="match_parent"
+        android:text="Contenido"
+        android:gravity="center"
+        android:textSize="@dimen/dimen_detail_fragment"/>
+
+</FrameLayout>

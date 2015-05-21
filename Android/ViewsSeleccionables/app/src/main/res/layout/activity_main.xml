@@ -9,7 +9,7 @@
         android:id="@+id/list"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:divider="#0000FF"
+        android:divider="#000000FF"
         android:dividerHeight="1dp"
         android:entries="@array/colores"
         android:layout_below="@+id/spinner"
